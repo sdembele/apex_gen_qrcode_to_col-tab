@@ -1,1 +1,4 @@
-# apex_gen_qrcode_to_col-tab
+Use this plugin to generate QRCODEs
+Which can be stored either in a:
+- Collection
+- Table (by insertion or modification)
