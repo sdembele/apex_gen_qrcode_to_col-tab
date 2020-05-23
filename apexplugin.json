@@ -1,8 +1,8 @@
 {
-  "name" : "APEX Gen QRCODE To Col/Tab",
+  "name" : "APEX Gen QRCODE To Collection or Custom Table",
   "version" : "1.0",
   "description" : "",
-  "keywords" : ["APEX", "DA", "QRCODE", "SVG"],
+  "keywords" : ["DA", "QRCODE", "SVG"],
   "homepage" : "https://github.com/sdembele/apex_gen_qrcode_to_col-tab",
   "bugs" : {
     "url" : "https://github.com/sdembele/apex_gen_qrcode_to_col-tab/issues",
