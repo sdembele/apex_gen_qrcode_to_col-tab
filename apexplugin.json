@@ -2,7 +2,7 @@
   "name" : "APEX Gen QRCODE To Collection or Custom Table",
   "version" : "1.0",
   "description" : "Use this plugin to generate QRCODE which will be stored in the collection or your custom table by writing a sql query",
-  "keywords" : ["DA", "QRCODE", "SVG"],
+  "keywords" : ["DA", " COLLECTION","QRCODE", "SVG"],
   "homepage" : "https://github.com/sdembele/apex_gen_qrcode_to_col-tab",
   "bugs" : {
     "url" : "https://github.com/sdembele/apex_gen_qrcode_to_col-tab/issues",
